@@ -42,6 +42,3 @@
 
 - Python 3.8 или новее
 - Библиотеки: `requests`, `PyQt6`
-
-Установка:
-```bash: pip install requests PyQt6
